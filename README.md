@@ -23,4 +23,20 @@
 | 0x0D강 | 해쉬, 이진 검색 트리, 힙 | X |
 
 
-- [ ] <strong>8/25</strong> 까지 끝내기.
+### 기본 소스 코드 설정
+~~~
+#include <bits/stdc++.h>
+#define pb push_back
+#define mp make_pair
+#define all(x) (x).begin(), (x).end()
+
+using namespace std;
+
+typedef long long ll;
+typedef pair<int, int> pii;
+const double PI = acos(-1);
+
+int main(){
+	return 0;
+}
+~~~
