@@ -1,5 +1,5 @@
 # Algorithm-Study
-* [실전 알고리즘 강의](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)를 공부하여, 여러 알고리즘들을 익히고 [알고리즘_그룹](https://www.acmicpc.net/group/4490)에 있는 문제집들을 풀어본다.
+* [실전 알고리즘 강의](https://blog.encrypted.gg/919?category=773649)를 공부하여, 여러 알고리즘들을 익히고 [문제집](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)들을 풀어본다.
 
 ### 진행 방법
 
